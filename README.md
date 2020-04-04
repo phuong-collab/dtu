@@ -24,7 +24,7 @@ Selection criteria from 1_versus_virus:
 
 - mini-video
 
-- presentation (with executive summary)
+- presentation (with executive summary) (phuongtrang draft)
 
 
 - white-paper
